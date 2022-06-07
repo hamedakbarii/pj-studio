@@ -63,6 +63,9 @@
 	margin-top: 2rem;
 	cursor: pointer;
 }
+.customize--right .customize_right--box:hover {
+	transform: translateX(1rem);
+}
 .orange {
 	border-left: 0.3rem solid var(--accent-color);
 	transition: all 0.3s ease;

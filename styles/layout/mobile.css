@@ -57,6 +57,7 @@
 	padding: 0.5rem;
 	border-radius: 1rem;
 	transition: all 0.2s ease-in;
+	background-color: #cac9c9;
 }
 
 .mobile_app--icon-left span,
